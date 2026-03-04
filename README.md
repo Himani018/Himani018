@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Himani Bahuguna.
+## Hi 👋 , I'm Himani Bahuguna.
 
 <!--
 **Himani018/Himani018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
